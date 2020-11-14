@@ -1,4 +1,6 @@
 # Smart_Infrared_HumanBody_Temperature_Monitoring_System
+Smart_Infrared_HumanBody_Temperature_Monitoring_System used for Detect the Higher Temperature of Human Body using MLX90614 Infrared Temperature Sensor and Also Counting Persons at Shopping malls and Theatres IN and OUT, to reduse the Rush and to Maintaining the Social Distancing.
+
 
 
 
