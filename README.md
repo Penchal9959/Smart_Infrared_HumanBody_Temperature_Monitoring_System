@@ -13,6 +13,8 @@ Components:
 6.DB9 connectors
 7.16x2 LCD
 8.9v Battery
+9.BUZZER
+10.LED's
 
 Skills used:
 
